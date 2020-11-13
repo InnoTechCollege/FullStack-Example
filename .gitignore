@@ -1,0 +1,3 @@
+backend/dbcreds.py
+backend/venv/
+frontend/apiexample/node_modules
