@@ -1,3 +1,4 @@
 backend/dbcreds.py
 backend/venv/
+backend/__pycache__/
 frontend/apiexample/node_modules
